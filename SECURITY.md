@@ -1,4 +1,5 @@
 Our security policy is documented at: https://foss.wiki/FW:Security
+
 Our standard security.txt is stated below:
 ```
 Contact: security@foss.wiki
