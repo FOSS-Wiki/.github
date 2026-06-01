@@ -2,11 +2,11 @@ Our security policy is documented at: https://foss.wiki/FW:Security
 
 Our standard security.txt is stated below:
 ```
-Contact: security@foss.wiki
-Expires: 2030-01-01T12:00:00Z
+Contact: mailto:security@foss.wiki
+Expires: 2030-01-01T00:00:00.000Z
 Encryption: https://foss.wiki/security-at-fosswiki_public.asc
-Acknowledgements: https://foss.wiki/FW:Security
-Hiring: https://foss.wiki/FW:Team
-Policy: https://foss.wiki/FW:Security
+Acknowledgments: https://foss.wiki/FW:Security
 Preferred-Languages: en
+Policy: https://foss.wiki/FW:Security
+
 ```
